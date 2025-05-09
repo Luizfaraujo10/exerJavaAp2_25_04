@@ -1,3 +1,11 @@
+ALUNOS:
+Caio Felix de Moura | RA: 2401161
+Vinicuius Sousa Santos | RA: 2401090
+Luiz Felipe Araujo dos SAntos | RA: 2400228
+Thiago Malta da Silva | RA: 2400048
+Gabriel Vicente Aiala | RA: 2100253
+Diego Fonseca de Oliveira | RA: 1902388
+
 Algoritmo classe BinomialDistribution:
     publico estatico final int COIN_TOSSES <- 100
     publico estatico final int LINES_IN_DIAGRAM <- 30
