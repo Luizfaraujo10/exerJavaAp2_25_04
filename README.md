@@ -1,3 +1,5 @@
+Observação: Visualize este arquivo no modo "Code" do Git Hub.
+
 ALUNOS:
 Caio Felix de Moura | RA: 2401161
 Vinicuius Sousa Santos | RA: 2401090
